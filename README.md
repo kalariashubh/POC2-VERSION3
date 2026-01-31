@@ -18,9 +18,3 @@ using externalId mapping.
 - C#
 - JSON Automation
 
-## How to Run (Local)
-
-### 1. Backend
-```bash
-cd server
-node server.js
