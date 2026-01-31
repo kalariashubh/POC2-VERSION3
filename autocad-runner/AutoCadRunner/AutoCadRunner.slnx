@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="AutoCadRunner.csproj" Id="c0ca68e3-cf02-46d0-a4a4-ffcc39c4fd7d">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

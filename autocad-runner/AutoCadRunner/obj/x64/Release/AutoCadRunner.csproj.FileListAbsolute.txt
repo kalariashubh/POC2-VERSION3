@@ -1,0 +1,7 @@
+D:\Buniyad Byte\POC 2\svf-dwg-dbId-boundary\autocad-runner\AutoCadRunner\bin\x64\Release\AutoCadRunner.exe.config
+D:\Buniyad Byte\POC 2\svf-dwg-dbId-boundary\autocad-runner\AutoCadRunner\bin\x64\Release\AutoCadRunner.exe
+D:\Buniyad Byte\POC 2\svf-dwg-dbId-boundary\autocad-runner\AutoCadRunner\bin\x64\Release\AutoCadRunner.pdb
+D:\Buniyad Byte\POC 2\svf-dwg-dbId-boundary\autocad-runner\AutoCadRunner\obj\x64\Release\AutoCadRunner.csproj.AssemblyReference.cache
+D:\Buniyad Byte\POC 2\svf-dwg-dbId-boundary\autocad-runner\AutoCadRunner\obj\x64\Release\AutoCadRunner.csproj.CoreCompileInputs.cache
+D:\Buniyad Byte\POC 2\svf-dwg-dbId-boundary\autocad-runner\AutoCadRunner\obj\x64\Release\AutoCadRunner.exe
+D:\Buniyad Byte\POC 2\svf-dwg-dbId-boundary\autocad-runner\AutoCadRunner\obj\x64\Release\AutoCadRunner.pdb
